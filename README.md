@@ -1,4 +1,4 @@
-# toura
+# Toura
 
 Toura is joint active citizen participation for better worldwide tourism - democratic, for everyone and environmentally aware.
 It unites all players of society for a sustainable change through systemic redesign of how we travel.
